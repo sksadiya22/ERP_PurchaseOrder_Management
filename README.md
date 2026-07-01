@@ -249,18 +249,6 @@ This project helped in understanding:
 - ERP Business Processes
 - Enterprise Procurement Automation
 
----
 
-# 👩‍💻 Authors
-
-**Sk. Sadiya Parvin**  
-B.Tech – Computer Science and Engineering  
-SRM University AP
-
-**R. Niharika**  
-B.Tech – Computer Science and Engineering  
-SRM University AP
-
----
 
 ## ⭐ If you found this project useful, consider giving it a Star!
